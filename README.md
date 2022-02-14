@@ -34,21 +34,17 @@ const 🔩::pair skillset_rohan_verma<🔩::string, 🔩::string>  {
 
 {
 "C++11/14/17" , 
-"OOPs, STL, Boost, OpenMP , Concurrent
-Threads, POCO , Design Patterns, State Machines.
-Catch2, bison++, flex, encryption-decryption algorithms."
+"OOPs, STL, Boost, OpenMP , Concurrent Threads, POCO , Design Patterns, State Machines.Catch2, bison++, flex, encryption-decryption algorithms."
 },
 
 {
 "Scala",
-"Containers, Akka Streaming, Akka HTTP, Cats,
-Apache Spark, Kafka, ANTLR-4, scala-test, junit, lagom"
+"Containers, Akka Streaming, Akka HTTP, Cats,Apache Spark, Kafka, ANTLR-4, scala-test, junit, lagom"
 },
 
 {
 "Node.js", 
-"Express, Fastify, event-emmiters and Web
-Sockets, Design patterns, mocha, typescript."
+"Express, Fastify, event-emmiters and WebSockets, Design patterns, mocha, typescript."
 },
 
 {
@@ -69,8 +65,7 @@ MongoDB, Apache Cassandra, Elastic Search."
 
 {
 "DevOPS & Version control" ,
-"Git, SVN, Mercurial Gitlab,
-GoCD, Jenkins, KVM hypervisor, AWS EC2, AWS"
+"Git, SVN, Mercurial Gitlab,GoCD, Jenkins, KVM hypervisor, AWS EC2, AWS"
 }
 
 }
