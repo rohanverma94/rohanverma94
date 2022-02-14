@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <h2> Hi 👋, I'm Rohan Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RiKyIqMC4vVGB9vkxl/giphy.gif" width="230">
@@ -20,10 +19,11 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Linkedin: rohan](https://img.shields.io/badge/-rohan_verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-verma-dbengineer/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
-[![GitHub rohan](https://img.shields.io/github/followers/sidverma32?label=follow&style=social)](https://github.com/rohanverma94)
+[![GitHub rohan](https://img.shields.io/github/followers/rohanverma94?label=follow&style=social)](https://github.com/rohanverma94)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohanverma94.rohanverma94)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```C++
 #include <pair>
