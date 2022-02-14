@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ```C++
 #include <vector>
 #include <cstdlib>
-#inlcude <pair>
+#include <pair>
 
 namespace 🔩 = std;
 
