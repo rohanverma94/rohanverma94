@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><em>SENIOR SOFWARE ENGINEER </br>Open Source Contributor at <a href="https://github.com/seaweedfs">Seaweedfs</a> , <a href="https://github.com/rohanverma94/quarks">Quarks</a>
 </em></p>
 
-[![Linkedin: rohan](https://img.shields.io/badge/-sidverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidverma12/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
+[![Linkedin: rohan](https://img.shields.io/badge/-rohan_verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-verma-dbengineer/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
 [![GitHub rohan](https://img.shields.io/github/followers/sidverma32?label=follow&style=social)](https://github.com/rohanverma94)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohanverma94.rohanverma94)
 
