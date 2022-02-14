@@ -48,7 +48,8 @@ Apache Spark, Kafka, ANTLR-4, scala-test, junit, lagom"
 },
 
 {
-"Node.js",  "Express, Fastify, event-emmiters and Web
+"Node.js", 
+"Express, Fastify, event-emmiters and Web
 Sockets, Design patterns, mocha, typescript."
 },
 
