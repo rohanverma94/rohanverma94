@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 namespace 🔩 = std;
 
-const 🔩::map skillset_rohan_verma<🔩::string, 🔩::string>  {
+const 🔩::map <🔩::string, 🔩::string>  skillset_rohan_verma {
 
 {
 "C++11/14/17" , 
