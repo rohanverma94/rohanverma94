@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="230" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h2> Hi 👋, I'm Rohan Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <p><em>SENIOR SOFWARE ENGINEER </br>Open Source Contributor at <a href="https://github.com/seaweedfs">Seaweedfs</a> , <a href="https://github.com/rohanverma94/quarks">Quarks</a>
