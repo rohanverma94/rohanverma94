@@ -41,18 +41,13 @@ Catch2, bison++, flex, encryption-decryption algorithms."
 
 {
 "Scala",
-"Containers, Akka Streaming, Akka HTTP, Cats,Apache Spark, Kafka, 
+"Containers, ZIO, Akka Streaming, Akka HTTP, Cats,Apache Spark, Kafka, 
 ANTLR-4, scala-test, junit, lagom"
 },
 
 {
 "Node.js", 
 "Express, Fastify, event-emmiters and WebSockets, Design patterns, mocha, typescript."
-},
-
-{
-"React & Frontend",
-"Redux, Redux-observable, Rxjs,async iterables, jest."
 },
 
 {
