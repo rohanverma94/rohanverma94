@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-
-![localImage](/blob/main/bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg)
+<img src="https://github.com/rohanverma94/rohanverma94/blob/main/bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg"  width="600" height="300" >
 
 - 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
 - 💬 Ask me about Databases, Compilers & Systems Programming
