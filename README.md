@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-![localImage](bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg)
+![localImage](./bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg)
 
 - 🔭 I’m currently working on Databases and Complier wizardry 
 - 💬 Ask me about Databases, Compilers & Systems Programming
