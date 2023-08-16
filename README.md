@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-<img src="https://ibb.co/fM7xRvZ"  width="600" height="300" >
+<img src="https://i.ibb.co/hsvm5fr/bc-JW8q-FAAOYXemo-WVDCQ-1-e9t4d.jpg"  width="400" height="300" >
 
 - 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
 - 💬 Ask me about Databases, Compilers & Systems Programming
