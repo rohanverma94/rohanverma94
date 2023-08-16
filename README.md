@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ![localImage](./bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg)
 
-- 🔭 I’m currently working on Databases and Complier wizardry 
+- 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
 - 💬 Ask me about Databases, Compilers & Systems Programming
 - ⚡ Fun fact: Rohan loves being a Compiler Connoisseur, so feel free to throw anything that has to do with compilers.
   
