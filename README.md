@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <p></p>
 
 - 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
-- 💬 Ask me about Databases, Compilers & Systems Programming
+- 💬 Ask me about Databases, File Systems and Complier wizardry 
 - ⚡ Authored - A Distributed In-mem DB(proprietary) & some wasm stuff
   
 [![Linkedin: rohan](https://img.shields.io/badge/-rohan_verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-verma-dbengineer/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
