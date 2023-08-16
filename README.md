@@ -2,23 +2,14 @@
 **rohanverma94/rohanverma94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="/bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg"/>
-</div>
-<h2> Hi 👋, I'm Rohan Verma! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
-<p><em>SENIOR SOFWARE ENGINEER </br>Open Source Contributor at <a href="https://github.com/seaweedfs">Seaweedfs</a> , <a href="https://github.com/rohanverma94/quarks">Quarks</a>
-</em></p>
 
+![localImage](bcJW8qFAAOYXemoWVDCQ--1--e9t4d.jpg)
+
+- 🔭 I’m currently working on Databases and Complier wizardry 
+- 💬 Ask me about Databases, Compilers & Systems Programming
+- ⚡ Fun fact: Rohan loves being a Compiler Connoisseur, so feel free to throw anything that has to do with compilers.
+  
 [![Linkedin: rohan](https://img.shields.io/badge/-rohan_verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-verma-dbengineer/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
 [![GitHub rohan](https://img.shields.io/github/followers/rohanverma94?label=follow&style=social)](https://github.com/rohanverma94)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohanverma94.rohanverma94)
