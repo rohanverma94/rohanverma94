@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 <img src="https://i.ibb.co/hsvm5fr/bc-JW8q-FAAOYXemo-WVDCQ-1-e9t4d.jpg" width="30%" height="300" >
 <img src="https://i.ibb.co/PgSrPTJ/Untitled-Made-with-Flex-Clip.gif" width="60%" height="300">
 </div>
+
 - 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
 - 💬 Ask me about Databases, Compilers & Systems Programming
 - ⚡ Authored - A Distributed In-mem DB(proprietary) & some wasm stuff
