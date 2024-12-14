@@ -3,11 +3,6 @@
 
 Here are some ideas to get you started:
 -->
-<div class="display : flex;flex-direction : row">
-<img src="https://i.ibb.co/hsvm5fr/bc-JW8q-FAAOYXemo-WVDCQ-1-e9t4d.jpg" width="30%" height="300" >
-<img src="https://s11.gifyu.com/images/SceFI.gif" width="60%" height="300">
-</div>
-
 <p></p>
 
 - 🔭 I’m currently working on Databases, File Systems and Complier wizardry 
