@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Databases, File Systems and Complier wizardry 
 - ⚡ Authored - A Distributed In-mem DB(proprietary) & some wasm stuff
   
-[![Linkedin: rohan](https://img.shields.io/badge/-rohan_verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-verma-dbengineer/)](https://www.linkedin.com/in/rohan-verma-dbengineer/)
 [![GitHub rohan](https://img.shields.io/github/followers/rohanverma94?label=follow&style=social)](https://github.com/rohanverma94)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohanverma94.rohanverma94)
 
